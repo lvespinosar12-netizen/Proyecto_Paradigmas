@@ -15,6 +15,7 @@ public class Principal {
         int opcion;
 
         do {
+        	System.out.println();
             System.out.println("\n===== MENÚ TRAJE ESPACIAL =====");
             System.out.println("1. Crear traje espacial");
             System.out.println("2. Mostrar traje espacial");
